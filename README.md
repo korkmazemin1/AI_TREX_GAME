@@ -39,15 +39,17 @@ The model successfully recognizes different movements of the T-Rex character.
 
 ## Kurulum ve Kullanım / Installation and Usage
 
-1. **Bağımlılıkları Yükleyin** / **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-2. **Proje Dizinine Gidin** / **Navigate to the Project Directory:**
+
+1.  **Proje Dizinine Gidin** / **Navigate to the Project Directory:**
    ```bash
    cd Trex_with_CNN
    ```
+
+2. **Bağımlılıkları Yükleyin** / **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
 
 
 
