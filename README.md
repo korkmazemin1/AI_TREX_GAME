@@ -49,7 +49,7 @@ The model successfully recognizes different movements of the T-Rex character.
 2. **Bağımlılıkları Yükleyin** / **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
-
+   ```
 
 
 
