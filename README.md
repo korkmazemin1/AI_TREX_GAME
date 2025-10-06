@@ -1,3 +1,4 @@
+![trex](https://trex-runner.com/img/trex-runner.png)
 # AI Takes the Reins: A Deep Learning Model Plays the T-Rex Game
 
 ## Purpose
