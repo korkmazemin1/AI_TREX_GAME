@@ -22,16 +22,7 @@ Inspired by the graphics of the T-Rex game, a neural network model was developed
   - Categorical cross-entropy loss function
   - Optimization with Adam optimizer
 
----
 
-## Results
-
-- **Training Accuracy:** %{{score_train}}  
-- **Test Accuracy:** %{{score_test}}
-
-The model successfully recognizes the different movements of the T-Rex character.
-
----
 
 ## Installation and Usage
 
